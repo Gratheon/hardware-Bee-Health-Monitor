@@ -10,9 +10,8 @@ TODO: Put a real life image here.
 
 Bees, Health, Camera, Sensory, Neural Networks, AI
 
-## Software
-
-TODO
+## Dataset
+https://www.kaggle.com/datasets/imonbilk/bee-dataset-but-2?resource=download
 
 ## Hardware
 
